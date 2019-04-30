@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "smartmeetingschedule-20190430153555-authRole",
+            "UnauthRoleArn": "arn:aws:iam::836402277965:role/smartmeetingschedule-20190430153555-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::836402277965:role/smartmeetingschedule-20190430153555-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "smartmeetingschedule-20190430153555-deployment",
+            "UnauthRoleName": "smartmeetingschedule-20190430153555-unauthRole",
+            "StackName": "smartmeetingschedule-20190430153555",
+            "StackId": "arn:aws:cloudformation:us-east-1:836402277965:stack/smartmeetingschedule-20190430153555/8c862fb0-6b2f-11e9-b6a1-0a56ba5f6f9e"
+        }
+    }
+}
